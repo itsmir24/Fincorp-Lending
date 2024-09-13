@@ -1,12 +1,12 @@
-##Business Context
+**Business Context**
 
 A financial corporation, Fincorp Lending, provides various types of loans such as personal, auto, home, education, and business loans. The corporation operates across multiple regions and caters to a diverse clientele. With a competitive market and regulatory challenges, efficient loan processing and risk management are crucial.
 
-##Business Problem
+**Business Problem**
 
 The corporation faces challenges in managing loan defaults and optimizing loan approvals. High default rates have financial implications and reduce profitability. Additionally, an inefficient loan approval process can lead to customer dissatisfaction and loss of potential business to competitors.
 
-##Business Objective
+**Business Objective**
 
 The primary objectives are to:
 
